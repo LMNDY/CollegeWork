@@ -1,0 +1,15 @@
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe.config
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\bin\Debug\SchoolBank.pdb
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.AssemblyReference.cache
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\Interop.ADOX.dll
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.ResolveComReference.cache
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmMenu.resources
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.Properties.Resources.resources
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.GenerateResource.cache
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.CoreCompileInputs.cache
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.exe
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.pdb
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmAccounts.resources
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmStatistics.resources
+C:\Users\lukem\Documents\GitHub\CollegeWork\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmTransactions.resources
